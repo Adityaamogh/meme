@@ -1,0 +1,21 @@
+*{
+    background-color: black;
+}
+
+*{
+    text-align: center;
+}
+h1{
+    color: aliceblue;
+    font-family:'Libre Baskerville',serif;
+}
+p{
+    color: aliceblue;
+}
+#bro{
+    border: 5px solid white;
+    width: 100%;
+    
+}
+
+
